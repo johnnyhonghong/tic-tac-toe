@@ -2,7 +2,7 @@
 #### Package
  tkinter and numpy
 #### Demo
-![](https://i.imgur.com/6JFuz8L.png)
+![](https://i.imgur.com/PJXZjQl.png)
 
 left click is circle
 
